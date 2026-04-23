@@ -1,0 +1,6 @@
+{
+  "name": "Mini arcade",
+  "description": "A collection of fun mini-games including Tic-Tac-Toe and Memory Match.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
